@@ -7,7 +7,7 @@ THE SOURCE DEVELOPER BY [@Mustafaflux](https://telegram.me/MUSTAFAFLUX) On Teleg
 The Channel on telegram [@MasterDev](https://telegram.me/masterdev)
 
 To install on C9 you should enter these commands one by one in Terminal
-
+### Installation
 #Step 1 : write > 
 `sudo apt-get update && sudo apt-get upgrade`
 
@@ -31,7 +31,9 @@ To install on C9 you should enter these commands one by one in Terminal
 Then it will ask for a number
 If You Want To install on VPS Just do From #step3 to #step 6
 
-
+### One command
+also you can do it by one command
+`sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf superflux-bot && rm -rf .telegram-cli && git clone https://github.com/mustafaflux/superflux-bot.git && cd superflux-bot && ./launch.sh install && ./launch.sh`
 
 #Commands > All Work By Reply
 Commands part #1
@@ -123,7 +125,7 @@ Other commands
 
 /setabout <write about> :- put deacripion in Supergroups
 
-/unban :- by reply
+/unban :- by [reply]
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
@@ -135,4 +137,4 @@ Other commands
 *Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
-*if You have question or any problem you can ask in [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ) group* 
+*if You have question or any problem you can ask in [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ) group* .
