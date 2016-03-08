@@ -54,7 +54,7 @@ Commands part #1
 
 ➕
 
-*Commands for Control member* :
+Commands for Control member 
 
 /kick :- by <reply|id|username>
 
@@ -71,7 +71,7 @@ Commands part #1
 
 ➕
 
-*Group control* :
+Group control 
 
 /rules
 
@@ -103,7 +103,7 @@ Commands part #1
 ➕
 
 
-Group Promote commands :
+Group Promote commands 
 
 /spromote :- up leader by <reply|id|username>
 
@@ -113,7 +113,7 @@ Group Promote commands :
 
 /demote :- by <reply|id|username>
 
-Other commands :
+Other commands 
 
 /upmanager :- by <reply|id|username>
 
