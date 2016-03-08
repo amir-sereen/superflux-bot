@@ -106,25 +106,25 @@ Commands part #1
 
 *Group Promote commands* :
 
-/spromote : up leader by<reply|id|username> 
+/spromote : up leader by *<reply|id|username>*
 
-/sdemote :- in promote by<reply|id|username>
+/sdemote :- in promote by *<reply|id|username>*
 
-/promote :- by<reply|id|username> 
+/promote :- by *<reply|id|username>*
 
-/demote :- by<reply|id|username> 
+/demote :- by *<reply|id|username>* 
 
 *Other commands* :
 
-/upmanager :- by <reply|id|username>
+/upmanager :- by *<reply|id|username>*
 
-/inmanager :- by <reply|id|username>
+/inmanager :- by *<reply|id|username>*
 
-/invite :- by <reply|id|username>
+/invite :- by *<reply|id|username>*
 
-/setabout <write about> :- put deacripion in Supergroups
+/setabout *<write about>* :- *put deacripion in Supergroups*
 
-/unban :- by <reply> 
+/unban :- *by <reply>* 
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
