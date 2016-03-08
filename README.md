@@ -1,147 +1,141 @@
 # superflux-bot
 
-This is simple REAFME
+This is a simple README
 
-THE SOURCE DEVELOPER BY @Mustafaflux ON Telegram 
+THE SOURCE DEVELOPER BY [@Mustafaflux](telegram.me/MUSTAFAFLUX) ON Telegram 
 
-The Channel on telegram @MasterDev
-
-<_>
-!
+The Channel on telegram [@MasterDev](telegram.me/masterdev)
 
 
 To install on C9 your next steps
 
-1⃣#Step1 : writ this > in Terminal 
-sudo apt-get update 
+#Step 1 : write this > in Terminal 
+`sudo apt-get update` 
 
-2⃣#step2 : writ this > in Terminal 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
+#step 2 : write this > 
+`sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev`
 
-3⃣#step3 : writ >
-git clone https://github.com/mustafaflux/superflux-bot.git
+#step 3 : write >
+`git clone https://github.com/mustafaflux/superflux-bot.git`
 
-4⃣#step4 : Writ >
-cd superflux-bot
+#step 4 : write >
+`cd superflux-bot`
 
-5⃣#step5 : Writ >
-./launch.sh install 
+#step 5 : write >
+`./launch.sh install` 
 
-(When the installation finishes)
+(When the installation finished)
 
-6⃣#step6 : Writ >
-./launch.sh 
+#step 6 : write >
+`./launch.sh` 
 
 Then ask You Number To put him Bot
-[[ If You Want install on VPS DO JUST From #step3 to #step6]]
-._._._._._.
+[[ If You Want install on VPS DO JUST From #step3 to #step 6]]
 
 
-#COMMNDS :> All Work By Reply
-‌✅Commands part #1
 
-💭/close|open link :- anti link
+#Commands :> All Work By Reply
+✅Commands part #1
 
-💭/close|open member :- anti invite member
+/close|open link :- anti link
 
-💭/close|open name :- lock name
+/close|open member :- anti invite member
 
-💭/close|open image :- anti image
+/close|open name :- lock name
 
-💭/close|open photo :- lock photo
+/close|open image :- anti image
 
-💭/close|open sticker :- anti sticker
+/close|open photo :- lock photo
 
-💭/close|open file :- anti file
+/close|open sticker :- anti sticker
 
-💭/close|open chat :- close all Gp
+/close|open file :- anti file
 
-➕
-
-✅Commands for control member
-
-💭/kick : by <reply|id|username>
-
-💭/ban : by <reply|id|username>
-
-💭/unban : by <reply|id|username>
-
-💭/kickme
-
-💭/silent :- for one member by <id|reply|username>
-
-💭/unsilent :- cancel silent for member by <id|reply|username> 
-
-
+/close|open chat :- close all Gp
 
 ➕
 
-✅Group control 
+Commands for control member
 
-💭/rules
+/kick : by <reply|id|username>
 
-💭/setrules <write rules>
+/ban : by <reply|id|username>
 
-💭/about
+/unban : by <reply|id|username>
 
-💭/setabout <write about> :- for Supergroups put Descripion
+/kickme
 
-💭/setphoto : then send photo
+/silent :- for one member by <id|reply|username>
 
-💭/setname <write name>
-
-💭/id
-
-💭/ids chat :- show id and username all member in Gp
-
-💭/group settings :- settings Gp
-
-💭/getlink : send link in your pv
-
-💭/relink <id-chat> : change link group and send new link your pv
-
-💭/modlist :- show list moderation
-
-💭/help :- show the list help for you
-
+/unsilent :- cancel silent for member by <id|reply|username> 
 
 
 ➕
 
-✅ Group Promote  commands
+Group control 
 
-💭/spromote : up leader by<reply|id|username> 
+/rules
 
-💭/sdemote : in promote by<reply|id|username>
+/setrules <write rules>
 
-💭/promote : by<reply|id|username> 
+/about
 
-💭/demote : by<reply|id|username> 
+/setabout <write about> :- for Supergroups put Descripion
 
-new:- ⛄
+/setphoto : then send photo
 
-💭/upmanager :- by <reply|id|username>
+/setname <write name>
 
-💭/inmanager :- by <reply|id|username>
+/id
 
-💭/invite :- by <reply|id|username>
+/ids chat :- show id and username all member in Gp
 
-💭/setabout <writ about> :- put deacripion in supergroups
+/group settings :- settings Gp
 
-💭/unban :- by <reply> 
+/getlink : send link in your pv
+
+/relink <id-chat> : change link group and send new link your pv
+
+/modlist :- show list moderation
+
+/help :- show the list help for you
+
+
+➕
+
+
+Group Promote  commands
+
+/spromote : up leader by<reply|id|username> 
+
+/sdemote : in promote by<reply|id|username>
+
+/promote : by<reply|id|username> 
+
+/demote : by<reply|id|username> 
+
+Other commands :
+
+/upmanager : by <reply|id|username>
+
+/inmanager : by <reply|id|username>
+
+/invite : by <reply|id|username>
+
+/setabout <writ about> :- put deacripion in supergroups
+
+/unban : by <reply> 
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
 
-Version :- 2.0 🌠 Telegram Bot @BotTG
+*Version* : 2.0 🌠 Telegram Bot [@BotTG](telegram.me/BotTG)
 
-Developer :- " @Mustafaflux "
+*Developer* : [@Mustafaflux](telegram.me/MUSTAFAFLUX)
 
-Channel :- @MasterDev
+*Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
-🅾If You may question any 
+_if You may question any_ 
 
-problem can ask #Here  :- 
-
-🌐 https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ ✅
+problem can ask in support group : �[support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ) ✅
