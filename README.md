@@ -28,7 +28,7 @@ To install on C9 you should enter these commands one by one in Terminal
 #Step 6 : write >
 `./launch.sh` 
 
-Then ask You Number To put him Bot
+Then it will ask for a number
 If You Want To install on VPS Just do From #step3 to #step 6
 
 
@@ -50,23 +50,23 @@ Commands part #1
 
 /close|open file : anti file
 
-/close|open chat : close all Gp
+/close|open chat : close all gp
 
 ➕
 
 Commands for Control member 
 
-/kick :- by <reply|id|username>
+/kick :- by [reply|id|username]
 
-/ban :- by <reply|id|username>
+/ban :- by [reply|id|username]
 
-/unban :- by <reply|id|username>
+/unban :- by [reply|id|username]
 
 /kickme
 
-/silent :- for User silent <id|reply|username>
+/silent :- for User silent [id|reply|username]
 
-/unsilent :- cancel silent for a user <id|reply|username> 
+/unsilent :- cancel silent for a user [id|reply|username]
 
 
 ➕
@@ -105,25 +105,25 @@ Group control
 
 Group Promote commands 
 
-/spromote :- up leader by <reply|id|username>
+/spromote :- up leader by [reply|id|username]
 
-/sdemote :- in promote by <reply|id|username>
+/sdemote :- in promote by [reply|id|username]
 
-/promote :- by <reply|id|username>
+/promote :- by [reply|id|username]
 
-/demote :- by <reply|id|username>
+/demote :- by [reply|id|username]
 
 Other commands 
 
-/upmanager :- by <reply|id|username>
+/upmanager :- by [reply|id|username]
 
-/inmanager :- by <reply|id|username>
+/inmanager :- by [reply|id|username]
 
-/invite :- by <reply|id|username>
+/invite :- by [reply|id|username]
 
 /setabout <write about> :- put deacripion in Supergroups
 
-/unban :- by <reply>
+/unban :- by reply
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
