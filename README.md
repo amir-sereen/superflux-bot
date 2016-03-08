@@ -6,11 +6,10 @@ THE SOURCE DEVELOPER BY [@Mustafaflux](https://telegram.me/MUSTAFAFLUX) On Teleg
 
 The Channel on telegram [@MasterDev](https://telegram.me/masterdev)
 
-
 To install on C9 you should enter these commands one by one in Terminal
 
 #Step 1 : write > 
-`sudo apt-get update` 
+`sudo apt-get update && sudo apt-get upgrade`
 
 #Step 2 : write > 
 `sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev`
@@ -88,15 +87,15 @@ Commands part #1
 
 /id
 
-/ids chat :- show id and username all member in Gp
+/ids chat :- show all username and id in a group 
 
-/group settings :- settings Gp
+/group settings :- will return group settings
 
 /getlink :- send  group link in pm
 
 /relink :- <id-chat> : revoke the link group and send newlink in pm
 
-/modlist :- show list moderation
+/modlist :- will return mods list
 
 /help :- show the help list for you
 
@@ -104,27 +103,27 @@ Commands part #1
 ➕
 
 
-*Group Promote commands* :
+Group Promote commands :
 
-*/spromote : up leader by <reply|id|username>*
+/spromote :- up leader by <reply|id|username>
 
-*/sdemote :- in promote by <reply|id|username>*
+/sdemote :- in promote by <reply|id|username>
 
-*/promote :- by <reply|id|username>*
+/promote :- by <reply|id|username>
 
-*/demote :- by <reply|id|username>* 
+/demote :- by <reply|id|username>
 
-*Other commands :*
+Other commands :
 
-*/upmanager :- by <reply|id|username>*
+/upmanager :- by <reply|id|username>
 
-*/inmanager :- by <reply|id|username>*
+/inmanager :- by <reply|id|username>
 
-*/invite :- by <reply|id|username>*
+/invite :- by <reply|id|username>
 
-*/setabout <write about> :- put deacripion in Supergroups*
+/setabout <write about> :- put deacripion in Supergroups
 
-*/unban :- by <reply>* 
+/unban :- by <reply>
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
