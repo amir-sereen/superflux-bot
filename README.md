@@ -55,7 +55,7 @@ Commands part #1
 
 ➕
 
-Commands for Control member
+*Commands for Control member* :
 
 /kick : by <reply|id|username>
 
@@ -72,7 +72,7 @@ Commands for Control member
 
 ➕
 
-Group control 
+*Group control* :
 
 /rules
 
@@ -92,19 +92,19 @@ Group control
 
 /group settings : settings Gp
 
-/getlink : send link in pm
+/getlink : send  group link in pm
 
 /relink : <id-chat> : revoke the link group and send newlink in pm
 
 /modlist : show list moderation
 
-/help :- show the help list for you
+/help : show the help list for you
 
 
 ➕
 
 
-Group Promote  commands
+*Group Promote commands* :
 
 /spromote : up leader by<reply|id|username> 
 
@@ -114,7 +114,7 @@ Group Promote  commands
 
 /demote : by<reply|id|username> 
 
-Other commands :
+*Other commands* :
 
 /upmanager : by <reply|id|username>
 
@@ -122,7 +122,7 @@ Other commands :
 
 /invite : by <reply|id|username>
 
-/setabout <write about> :- put deacripion in supergroups
+/setabout <write about> :- put deacripion in Supergroups
 
 /unban : by <reply> 
 
@@ -136,4 +136,4 @@ Other commands :
 *Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
-_if You have question or any problem you can ask in support group_ : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
+*if You have question or any problem you can ask in support group* : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
