@@ -57,17 +57,17 @@ Commands part #1
 
 *Commands for Control member* :
 
-/kick : by <reply|id|username>
+/kick :- by <reply|id|username>
 
-/ban : by <reply|id|username>
+/ban :- by <reply|id|username>
 
-/unban : by <reply|id|username>
+/unban :- by <reply|id|username>
 
 /kickme
 
-/silent : for User silent <id|reply|username>
+/silent :- for User silent <id|reply|username>
 
-/unsilent : cancel silent for a user <id|reply|username> 
+/unsilent :- cancel silent for a user <id|reply|username> 
 
 
 ➕
@@ -80,25 +80,25 @@ Commands part #1
 
 /about
 
-/setabout <write about> : for Supergroups put Descripion
+/setabout <write about> :- for Supergroups put Descripion
 
-/setphoto : Then send photo
+/setphoto :- Then send photo
 
 /setname <write name>
 
 /id
 
-/ids chat : show id and username all member in Gp
+/ids chat :- show id and username all member in Gp
 
-/group settings : settings Gp
+/group settings :- settings Gp
 
-/getlink : send  group link in pm
+/getlink :- send  group link in pm
 
-/relink : <id-chat> : revoke the link group and send newlink in pm
+/relink :- <id-chat> : revoke the link group and send newlink in pm
 
-/modlist : show list moderation
+/modlist :- show list moderation
 
-/help : show the help list for you
+/help :- show the help list for you
 
 
 ➕
@@ -108,23 +108,23 @@ Commands part #1
 
 /spromote : up leader by<reply|id|username> 
 
-/sdemote : in promote by<reply|id|username>
+/sdemote :- in promote by<reply|id|username>
 
-/promote : by<reply|id|username> 
+/promote :- by<reply|id|username> 
 
-/demote : by<reply|id|username> 
+/demote :- by<reply|id|username> 
 
 *Other commands* :
 
-/upmanager : by <reply|id|username>
+/upmanager :- by <reply|id|username>
 
-/inmanager : by <reply|id|username>
+/inmanager :- by <reply|id|username>
 
-/invite : by <reply|id|username>
+/invite :- by <reply|id|username>
 
 /setabout <write about> :- put deacripion in Supergroups
 
-/unban : by <reply> 
+/unban :- by <reply> 
 
 
 ➖🔸➖🔹➖🔸➖🔹➖
