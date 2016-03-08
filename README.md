@@ -1,18 +1,18 @@
-# superflux-bot
+#Superflux-bot
 
 This is a simple README
 
-THE SOURCE DEVELOPER BY [@Mustafaflux](https://telegram.me/MUSTAFAFLUX) ON Telegram 
+THE SOURCE DEVELOPER BY [@Mustafaflux](https://telegram.me/MUSTAFAFLUX) On Telegram 
 
 The Channel on telegram [@MasterDev](https://telegram.me/masterdev)
 
 
-To install on C9 your next steps
+To install on C9 you should enter these commands one by one in Terminal
 
-#Step 1 : write this > in Terminal 
+#Step 1 : write > 
 `sudo apt-get update` 
 
-#Step 2 : write this > 
+#Step 2 : write > 
 `sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev`
 
 #Step 3 : write >
@@ -30,12 +30,12 @@ To install on C9 your next steps
 `./launch.sh` 
 
 Then ask You Number To put him Bot
-[[ If You Want install on VPS DO JUST From #step3 to #step 6]]
+If You Want install on VPS DO JUST From #step3 to #step 6
 
 
 
 #Commands :> All Work By Reply
-✅Commands part #1
+Commands part #1
 
 /close|open link :- anti link
 
@@ -129,13 +129,13 @@ Other commands :
 
 ➖🔸➖🔹➖🔸➖🔹➖
 
-*Version* : 2.0 🌠 Telegram Bot [@BotTG](telegram.me/BotTG)
+*Version* : 2.0 🌠 Telegram Bot [@BotTG](https://telegram.me/BotTG)
 
-*Developer* : [@Mustafaflux](telegram.me/MUSTAFAFLUX)
+*Developer* : [@Mustafaflux](https://telegram.me/MUSTAFAFLUX)
 
 *Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
 _if You may question any_ 
 
-problem can ask in support group : �[support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ) ✅
+*problem can ask in support group* : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
