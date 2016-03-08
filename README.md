@@ -30,32 +30,32 @@ To install on C9 you should enter these commands one by one in Terminal
 `./launch.sh` 
 
 Then ask You Number To put him Bot
-If You Want install on VPS DO JUST From #step3 to #step 6
+If You Want To install on VPS Just do From #step3 to #step 6
 
 
 
-#Commands :> All Work By Reply
+#Commands > All Work By Reply
 Commands part #1
 
-/close|open link :- anti link
+/close|open link : anti link
 
-/close|open member :- anti invite member
+/close|open member : anti invite member
 
-/close|open name :- lock name
+/close|open name : lock name
 
-/close|open image :- anti image
+/close|open image : anti image
 
-/close|open photo :- lock photo
+/close|open photo : lock photo
 
-/close|open sticker :- anti sticker
+/close|open sticker : anti sticker
 
-/close|open file :- anti file
+/close|open file : anti file
 
-/close|open chat :- close all Gp
+/close|open chat : close all Gp
 
 ➕
 
-Commands for control member
+Commands for Control member
 
 /kick : by <reply|id|username>
 
@@ -65,9 +65,9 @@ Commands for control member
 
 /kickme
 
-/silent :- for one member by <id|reply|username>
+/silent : for User silent <id|reply|username>
 
-/unsilent :- cancel silent for member by <id|reply|username> 
+/unsilent : cancel silent for a user <id|reply|username> 
 
 
 ➕
@@ -80,25 +80,25 @@ Group control
 
 /about
 
-/setabout <write about> :- for Supergroups put Descripion
+/setabout <write about> : for Supergroups put Descripion
 
-/setphoto : then send photo
+/setphoto : Then send photo
 
 /setname <write name>
 
 /id
 
-/ids chat :- show id and username all member in Gp
+/ids chat : show id and username all member in Gp
 
-/group settings :- settings Gp
+/group settings : settings Gp
 
-/getlink : send link in your pv
+/getlink : send link in pm
 
-/relink <id-chat> : change link group and send new link your pv
+/relink : <id-chat> : revoke the link group and send newlink in pm
 
-/modlist :- show list moderation
+/modlist : show list moderation
 
-/help :- show the list help for you
+/help :- show the help list for you
 
 
 ➕
@@ -122,7 +122,7 @@ Other commands :
 
 /invite : by <reply|id|username>
 
-/setabout <writ about> :- put deacripion in supergroups
+/setabout <write about> :- put deacripion in supergroups
 
 /unban : by <reply> 
 
@@ -136,6 +136,4 @@ Other commands :
 *Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
-_if You may question any_ 
-
-*problem can ask in support group* : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
+_if You have question or any problem you can ask in support group_ : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
