@@ -135,4 +135,4 @@ Other commands
 *Channel* : [@MasterDev](https://telegram.me/masterdev)
 
 
-*if You have question or any problem you can ask in support group* : [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ)
+*if You have question or any problem you can ask in [support]( https://telegram.me/joinchat/Cjp6HD4q7Bm5OO7HyiXzhQ) group* 
