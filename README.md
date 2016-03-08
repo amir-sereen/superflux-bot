@@ -2,9 +2,9 @@
 
 This is a simple README
 
-THE SOURCE DEVELOPER BY [@Mustafaflux](telegram.me/MUSTAFAFLUX) ON Telegram 
+THE SOURCE DEVELOPER BY [@Mustafaflux](https://telegram.me/MUSTAFAFLUX) ON Telegram 
 
-The Channel on telegram [@MasterDev](telegram.me/masterdev)
+The Channel on telegram [@MasterDev](https://telegram.me/masterdev)
 
 
 To install on C9 your next steps
@@ -12,21 +12,21 @@ To install on C9 your next steps
 #Step 1 : write this > in Terminal 
 `sudo apt-get update` 
 
-#step 2 : write this > 
+#Step 2 : write this > 
 `sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev`
 
-#step 3 : write >
+#Step 3 : write >
 `git clone https://github.com/mustafaflux/superflux-bot.git`
 
-#step 4 : write >
+#Step 4 : write >
 `cd superflux-bot`
 
-#step 5 : write >
+#Step 5 : write >
 `./launch.sh install` 
 
 (When the installation finished)
 
-#step 6 : write >
+#Step 6 : write >
 `./launch.sh` 
 
 Then ask You Number To put him Bot
